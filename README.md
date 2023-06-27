@@ -19,4 +19,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=liwa-dev&icon=0&color=9)]
+[](https://komarev.com/ghpvc/?username=liwa-dev&color=green)
