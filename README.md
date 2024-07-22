@@ -6,7 +6,7 @@
 - 🖥️ Passionate about programming and web development
 - 🎓 Graduated with a High School Diploma in Computer Science (2024)
 - 🚀 Have been working on small projects and posting them on GitHub for about 4 years, with a period of focused academic study in between
-- 🌳 Past projects include: Online Store, Music Visualizer, Tree Behavior, and Task Management
+- 🌳 Past projects include: Online Store, Music Visualizer, Task Management System Inspired by Unity, Unreal Engine (Tree Behavior concepts)
 
 ## 🔭 My Development Interests:
 - Building high-performance, data-driven web applications
