@@ -15,7 +15,7 @@
 - Diving deeper into full-stack development technologies
 
 ## 🌱 I'm currently learning:
-The latest front-end frameworks and libraries, such as React and Vue.js, to enhance the interactivity and responsiveness of my applications.
+The latest front-end frameworks and libraries, such as React, to enhance the interactivity and responsiveness of my applications.
 
 ## ⚡ Fun fact:
 I enjoy watching anime and building mini side projects in my free time. It's a great way to unwind and fuel my creativity!
