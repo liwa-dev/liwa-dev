@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Liwa-Eddine Hadri
 
 ## 💫 About Me:
-- 🎓 22-year-old student, born on May 7, 2003
+- 🎓 22-year-old student
 - 🏫 Currently studying Information Technology at the Higher Institute of Technological Studies (Institut Supérieur des Etudes Technologiques)
 - 🖥️ Passionate about programming and web development
 - 🎓 Previously studied Computer Science in high school
