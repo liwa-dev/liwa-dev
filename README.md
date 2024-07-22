@@ -4,7 +4,7 @@
 - 🎓 22-year-old student
 - 🏫 Currently studying Information Technology at the Higher Institute of Technological Studies (Institut Supérieur des Etudes Technologiques)
 - 🖥️ Passionate about programming and web development
-- 🎓 Previously studied Computer Science in high school
+- 🎓 Graduated with a High School Diploma in Computer Science (2024)
 - 🚀 Have been working on small projects and posting them on GitHub for about 4 years, with a period of focused academic study in between
 - 🌳 Past projects include: Online Store, Music Visualizer, Tree Behavior, and Task Management
 
