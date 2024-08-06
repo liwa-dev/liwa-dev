@@ -18,7 +18,7 @@
 The latest front-end frameworks and libraries, such as React, to enhance the interactivity and responsiveness of my applications.
 
 ## ⚡ Fun fact:
-I enjoy watching anime and building mini side projects in my free time. It's a great way to unwind and fuel my creativity!
+I enjoy listen music and building mini side projects in my free time. It's a great way to unwind and fuel my creativity!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](flick2003) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vliwahadri)
