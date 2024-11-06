@@ -2,9 +2,9 @@
 
 ## 💫 About Me:
 - 🎓 21-year-old student
-- 🏫 Currently studying Information Technology at the Higher Institute of Technological Studies (Institut Supérieur des Etudes Technologiques)
+- 🏫 Currently studying Information Technology at University Higher Institute of Technological Studies Tozeur (ISET Tozeur)
 - 🖥️ Passionate about programming and web development
-- 🎓 Graduated with a Bachelor Diploma in Computer Science (2024)
+- 🎓 Graduated with a High school diploma in Computer Science
 - 🚀 Have been working on small projects and posting them on GitHub for about 2.5 years, with a period of focused academic study in between
 - 🌳 Past projects include: Online Store, Music Visualizer, Task Management System Inspired by Unity, Unreal Engine (Tree Behavior concepts)
 
