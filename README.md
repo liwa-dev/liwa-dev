@@ -14,9 +14,6 @@
 - Exploring innovative ways to enhance user experiences in web applications
 - Diving deeper into full-stack development technologies
 
-## 🌱 I'm currently learning:
-The latest front-end frameworks and libraries, such as React, to enhance the interactivity and responsiveness of my applications.
-
 ## ⚡ Fun fact:
 I enjoy listen music and building mini side projects in my free time. It's a great way to unwind and fuel my creativity!
 
