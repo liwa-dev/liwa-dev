@@ -1,21 +1,3 @@
-# 👋 Hi, I'm Liwa-Eddine Hadri
-
-## 💫 About Me:
-- 🎓 21-year-old student
-- 🏫 Currently studying Information Technology at University Higher Institute of Technological Studies Tozeur (ISET Tozeur)
-- 🖥️ Passionate about programming and web development
-- 🎓 Graduated with a High school diploma in Computer Science
-- 🚀 Have been working on small projects and posting them on GitHub for about 2.5 years, with a period of focused academic study in between
-- 🌳 Past projects include: Online Store, Music Visualizer, Task Management System Inspired by Unity, Unreal Engine (Tree Behavior concepts)
-
-## 🔭 My Development Interests:
-- Building high-performance, data-driven web applications
-- Creating efficient and scalable solutions for modern web challenges
-- Exploring innovative ways to enhance user experiences in web applications
-- Diving deeper into full-stack development technologies
-
-## ⚡ Fun fact:
-I enjoy listen music and building mini side projects in my free time. It's a great way to unwind and fuel my creativity!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](flick2003) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vliwahadri)
